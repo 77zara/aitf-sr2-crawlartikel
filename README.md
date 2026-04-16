@@ -1,6 +1,6 @@
 # 🚀 AI Sekolah Rakyat - Mass Article Crawler V5.1
 
-Script ini berfungsi untuk memanen jutaan data teks (100M Tokens Target) dari 14 portal berita nasional Indonesia pada rentang tahun 2014-2027. Data akan difilter secara ketat menggunakan *Smart Scoring* khusus untuk ekosistem pendidikan (K-12/SMA).
+Script ini berfungsi untuk memanen jutaan data teks (100M Tokens Target) dari 14 portal berita nasional Indonesia pada rentang tahun 2014-2027. Data akan difilter secara ketat menggunakan *Smart Scoring* khusus untuk ekosistem pendidikan (SMA).
 
 ## 🛠️ Cara Penggunaan di Server
 1. Clone repository ini:
